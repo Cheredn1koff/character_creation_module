@@ -8,7 +8,7 @@ TEST_DATA: list[tuple[int, str, bool]] = [
 
 BONUS: float = 1.1
 ANTIBONUS: float = 0.8
-
+1
 
 def add_rep(current_rep: float, rep_points: int, buf_effect: bool) -> float:
     current_rep += rep_points
